@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlainUDPReceiver", "PlainUD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{8612B025-2694-40D5-836C-F08A467C98C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlainUDPSender", "PlainUDPSender\PlainUDPSender.csproj", "{88C2D851-E0BB-4D76-94AA-6BDE397C9739}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlainUDPSender", "ConsoleApp1\PlainUDPSender.csproj", "{7A6A18BC-C25D-4E83-8B43-B46B3A231075}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{8612B025-2694-40D5-836C-F08A467C98C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8612B025-2694-40D5-836C-F08A467C98C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8612B025-2694-40D5-836C-F08A467C98C6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{88C2D851-E0BB-4D76-94AA-6BDE397C9739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88C2D851-E0BB-4D76-94AA-6BDE397C9739}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88C2D851-E0BB-4D76-94AA-6BDE397C9739}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88C2D851-E0BB-4D76-94AA-6BDE397C9739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6A18BC-C25D-4E83-8B43-B46B3A231075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6A18BC-C25D-4E83-8B43-B46B3A231075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6A18BC-C25D-4E83-8B43-B46B3A231075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6A18BC-C25D-4E83-8B43-B46B3A231075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
